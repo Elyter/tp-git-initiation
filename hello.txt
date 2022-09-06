@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 say Hello World !
+=======
+Good bye World !
+>>>>>>> tomate
